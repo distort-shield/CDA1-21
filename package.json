@@ -16,5 +16,7 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
+     "__ronay__": "this is a comment",
   }
 }
+
